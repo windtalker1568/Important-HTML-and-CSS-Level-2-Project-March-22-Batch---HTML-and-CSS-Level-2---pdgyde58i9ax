@@ -94,7 +94,10 @@
 }
  @media screen and (max-width:674px) {
    .container{
-  padding: 100px 40px;
+  padding-top: 80px;
+     padding-bottom: 80px;
+     padding-left: 40px;
+     padding-top: 40px;
 
 }
    .grid-container{
